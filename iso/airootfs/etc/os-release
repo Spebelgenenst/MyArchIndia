@@ -1,0 +1,11 @@
+NAME="MyArchIndia"
+PRETTY_NAME="My Arch India"
+ID=myarchindia
+BUILD_ID=rolling
+ANSI_COLOR="#d03505"
+HOME_URL="https://github.com/Spebelgenenst/MyArchIndia/"
+DOCUMENTATION_URL="https://github.com/Spebelgenenst/MyArchIndia/blob/main/README.md"
+SUPPORT_URL="https://github.com/Spebelgenenst/MyArchIndia/issues"
+BUG_REPORT_URL="https://github.com/Spebelgenenst/MyArchIndia/issues"
+PRIVACY_POLICY_URL="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement"
+LOGO=myarchindia-logo
