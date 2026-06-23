@@ -1,0 +1,5 @@
+root:x:0:root
+adm:x:4:mpi
+wheel:x:10:mpi
+uucp:x:14:mpi
+mpi:x:1000:
