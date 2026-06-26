@@ -1,5 +1,5 @@
 [Desktop Entry]
 Type=Application
 Name=firefox mpi Kiosk
-Exec=/bin/bash -c "firefox --kiosk "https://mypayindia.com""
+Exec=/bin/bash -c "firefox --kiosk "https://mypayindia.sbs""
 Comment=Start firefox in Kiosk Mode with mypayindia
