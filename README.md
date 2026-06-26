@@ -2,6 +2,8 @@ My Arch India
 =======
 Your arch live distro for [MyPayIndia](https://mypayindia.com) banking everywere!
 
+![MyArchIndia Logo](https://github.com/Spebelgenenst/MyArchIndia/blob/main/assets/myarchindia-logo.jpg?raw=true)
+
 Build your own
 =======
 1. clone the repo
