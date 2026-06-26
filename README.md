@@ -2,7 +2,7 @@ My Arch India
 =======
 Your arch live distro for [MyPayIndia](https://mypayindia.com) banking everywere!
 
-![MyArchIndia Logo](https://github.com/Spebelgenenst/MyArchIndia/blob/main/assets/myarchindia-logo.jpg?raw=true)
+![MyArchIndia Logo](https://github.com/Spebelgenenst/MyArchIndia/blob/main/assets/myarchindia-logo.png?raw=true)
 
 Build your own
 =======
