@@ -1,6 +1,6 @@
 My Arch India
 =======
-your arch live distro for [MyPayIndia](https://mypayindia.com) banking everywere!
+Your arch live distro for [MyPayIndia](https://mypayindia.com) banking everywere!
 
 Build your own
 =======
