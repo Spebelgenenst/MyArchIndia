@@ -1,3 +1,5 @@
+# This project is not an official MyPayIndia Product
+
 My Arch India
 =======
 Your arch live distro for [MyPayIndia](https://mypayindia.com) banking everywere!
